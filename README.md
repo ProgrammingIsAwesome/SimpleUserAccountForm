@@ -1,5 +1,5 @@
-SimpleUserAccountForm
-Author: Peter Kim Date: 15th June 2023
+SimpleUserAccountForm<br/>
+Author: Peter Kim Date: 15th June 2023<br/>
 
 How to install:
 
