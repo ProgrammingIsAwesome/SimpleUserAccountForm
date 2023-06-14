@@ -1,4 +1,4 @@
-SimpleUserAccountForm<br/>
+<h2>SimpleUserAccountForm</h2><br/>
 Author: Peter Kim Date: 15th June 2023<br/>
 
 How to install:
